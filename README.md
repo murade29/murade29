@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mamta Urade</h1>
+<h1 align="center">Hi 👋, I'm Mamta U</h1>
 <h3 align="center">A Passionate Data Science Enthusiast from India</h3>
 
 - 😄 Pronouns: She/Her
